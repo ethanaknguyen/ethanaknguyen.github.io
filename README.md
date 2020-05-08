@@ -4,8 +4,9 @@ Student at the University of Oregon. Currently taking CIT 281.
 
 ### CIT 281 Projects
 
-# Project 3 Repo
 <h2>281 Project 3 Learning Outcomes</h2>
+
+## Learning Objectives
 
 - A web API or Application Programming Interface is an API
 accessed using the HTTP protocol. Web APIs often deliver data
