@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Ethan Nguyen
 
-You can use the [editor on GitHub](https://github.com/ethanaknguyen/ethanaknguyen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Student at the University of Oregon. Currently taking CIT 281.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CIT 281 Projects
 
-### Markdown
+# Project 3 Repo
+<h2>281 Project 3 Learning Outcomes</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- A web API or Application Programming Interface is an API
+accessed using the HTTP protocol. Web APIs often deliver data
+formatted as JSON.
+- A web API can be accessed programmatically using JavaScript.
+The API documentation must first be consulted in order to
+understand how the API works and what it returns.
+- Use jQuery to post AJAX requests asynchronously
+- Use the Postman app to test API requests/responses
+- Use NodeJS and Express for a testing server
+- Use jQuery, JavaScript, and public APIs to fetch JSON data, then
+use it to refresh part of a web
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2>281 Project 2 Learning Outcomes</h2>
 
-- Bulleted
-- List
+## Learning Objectives
 
-1. Numbered
-2. List
+- A web API or Application Programming Interface is an API accessed using the HTTP protocol
+- Web APIs often deliver data formatted as JSON
+- A web API can be accessed programmatically using JavaScript
+- The API documentation must first be consulted in order to
+understand how the API works and what it returns.
+- Some web APIs are public, and others require an access key.
+Flickr offers several public APIs
 
-**Bold** and _Italic_ and `Code` text
+<h2>281 Project 1 Learning Outcomes</h2>
 
-[Link](url) and ![Image](src)
-```
+## Learning Objectives
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ethanaknguyen/ethanaknguyen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Basic Unix Shell commands
+- Install and Configure Git using thee Unix Shell
+- Basic Git Commands (add, commit, push, clone)
+- Github overview
+- Markdown language for README files
+- JavaScript ES6+ features
+- Using arrays
