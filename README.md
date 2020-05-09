@@ -4,9 +4,7 @@ Student at the University of Oregon. Currently taking CIT 281.
 
 ### CIT 281 Projects
 
-<h2>281 Project 3 Learning Outcomes</h2>
-
-## Learning Objectives
+## 281 Project 3 Learning Outcomes 
 
 - A web API or Application Programming Interface is an API
 accessed using the HTTP protocol. Web APIs often deliver data
@@ -21,7 +19,7 @@ understand how the API works and what it returns.
 use it to refresh part of a web
 
 
-<h2>281 Project 2 Learning Outcomes</h2>
+## 281 Project 2 Learning Outcomes
 
 ## Learning Objectives
 
@@ -33,7 +31,7 @@ understand how the API works and what it returns.
 - Some web APIs are public, and others require an access key.
 Flickr offers several public APIs
 
-<h2>281 Project 1 Learning Outcomes</h2>
+## 281 Project 1 Learning Outcomes
 
 ## Learning Objectives
 
