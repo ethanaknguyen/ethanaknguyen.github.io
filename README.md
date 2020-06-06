@@ -4,7 +4,25 @@ Student at the University of Oregon. Currently taking CIT 281.
 
 ### CIT 281 Projects
 
-## 281 Project 3 Learning Outcomes 
+
+## Project 5 Learning Objectives
+- Build a RESTful Web Service that stores telephone numbers in a
+MongoDB (a CRUD app)
+- Build a RESTful Web Service that stores to-do list items in a
+MongoDB (a CRUD app)
+- Learn how to use Github to create a CIT 281 Code Portfolio that
+will be available after the term end
+
+
+## Project 4 Learning Objectives
+- Build a To-Do app that uses the Web Storage API
+- The Web Storage API lets browsers store key/value pairs locally, to
+create a persistent data store
+- ES6 Class Types: The Basics
+- ES6 Class Types: Inheritance
+
+
+## 281 Project 3 Learning Objectives
 
 - A web API or Application Programming Interface is an API
 accessed using the HTTP protocol. Web APIs often deliver data
@@ -19,9 +37,7 @@ understand how the API works and what it returns.
 use it to refresh part of a web
 
 
-## 281 Project 2 Learning Outcomes
-
-## Learning Objectives
+## 281 Project 2 Learning Objectives
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol
 - Web APIs often deliver data formatted as JSON
@@ -32,8 +48,6 @@ understand how the API works and what it returns.
 Flickr offers several public APIs
 
 ## 281 Project 1 Learning Outcomes
-
-## Learning Objectives
 
 - Basic Unix Shell commands
 - Install and Configure Git using thee Unix Shell
